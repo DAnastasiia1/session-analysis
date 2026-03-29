@@ -28,4 +28,4 @@ The goal of this project was to analyze website traffic and understand user beha
 
 ## 📊 Dashboard
 
-View interactive dashboard￼
+![Dashboard](Session%20Analysis-2.png)
